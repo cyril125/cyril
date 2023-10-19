@@ -1,0 +1,22 @@
+h3{
+    font-size: 80px;
+    color: blue;
+}
+
+li{
+    color: red;
+}
+
+.img1{
+    color: green;
+}
+
+
+.heading-1{
+    text-decoration: underline;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
